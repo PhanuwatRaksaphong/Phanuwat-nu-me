@@ -107,7 +107,7 @@ export default function Hero({ profile }: HeroProps) {
               </a>
 
               <a
-                href="https://github.com/phanuwat-nu-me"
+                href="https://github.com/PhanuwatRaksaphong"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 px-5 py-3 rounded-md bg-stone-900/70 border border-stone-800 hover:border-stone-700 text-stone-300 hover:text-white font-medium transition-all duration-200"

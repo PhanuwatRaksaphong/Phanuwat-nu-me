@@ -142,7 +142,7 @@ export default function Contact({ info = contactInfo }: ContactProps) {
                 </div>
                 <div>
                   <span className="block text-xs text-stone-500 font-bold uppercase tracking-wider">GitHub</span>
-                  <span className="text-sm font-semibold">github.com/phanuwat-nu-me</span>
+                  <span className="text-sm font-semibold">github.com/PhanuwatRaksaphong</span>
                 </div>
               </a>
 

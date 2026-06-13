@@ -69,7 +69,7 @@ cp .env.example .env.local
 ```
 Update the values:
 ```env
-GITHUB_USERNAME=phanuwat-nu-me
+GITHUB_USERNAME=PhanuwatRaksaphong
 GITHUB_TOKEN=your_optional_github_token
 ```
 *Note: Providing a `GITHUB_TOKEN` (Personal Access Token) is highly recommended. Unauthenticated requests are limited by GitHub to 60 requests per hour, while authenticated ones allow up to 5,000 requests per hour.*
@@ -109,5 +109,5 @@ This project is fully ready for deployment on Vercel:
 2. Sign in to the [Vercel Dashboard](https://vercel.com).
 3. Import your repository and click **Deploy**.
 4. In the Project Settings, under **Environment Variables**, add the variables:
-   * `GITHUB_USERNAME` = `phanuwat-nu-me`
+   * `GITHUB_USERNAME` = `PhanuwatRaksaphong`
    * `GITHUB_TOKEN` = `(your GitHub personal access token)`

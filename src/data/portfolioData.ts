@@ -56,9 +56,9 @@ export const timelineData: TimelineItem[] = [
 ];
 
 export const contactInfo: ContactInfo = {
-  email: "phanuwat.raksa.work@gmail.com",
-  github: "https://github.com/phanuwat-nu-me",
+  email: "phanuwatraksaphong@gmail.com",
+  github: "https://github.com/PhanuwatRaksaphong",
   linkedin: "https://linkedin.com/in/phanuwat-raksaphong",
-  facebook: "https://facebook.com/phanuwat.raksa",
-  discord: "phanuwat#1234"
+  facebook: "https://www.facebook.com/panuwat.raksapong",
+  discord: "xezenonv"
 };

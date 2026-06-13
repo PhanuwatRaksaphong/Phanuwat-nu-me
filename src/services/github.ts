@@ -1,6 +1,6 @@
 import { GitHubUser, GitHubRepo, GitHubStats } from '../types/github';
 
-const DEFAULT_USERNAME = 'phanuwat-nu-me';
+const DEFAULT_USERNAME = 'PhanuwatRaksaphong';
 
 const emptyGitHubStats = (): GitHubStats => ({
   user: null,
